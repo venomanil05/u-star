@@ -420,6 +420,7 @@ background-clip: text;           /* Standard property */
   .contact-info {
     flex-direction: row;
     justify-content: space-between;
+    text-align: left;
   }
 }
 
