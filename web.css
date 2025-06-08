@@ -162,8 +162,8 @@ body {
     height: 3px;
     background: white;
     border-radius: 2px;
-  }
-} */
+  } */
+}
 
 /* Sections */
 section {
@@ -584,5 +584,4 @@ body.dark-mode .footer {
 
 body.dark-mode .social-media a:hover {
   color: #4f91f7;
-}
 }
