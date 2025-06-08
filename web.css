@@ -135,7 +135,7 @@ body {
   margin-left: 1rem;
 }
 
-/* Hamburger (hidden on desktop) */
+/* Hamburger (hidden on desktop) 
 .hamburger {
   display: none;
   flex-direction: column;
@@ -148,7 +148,7 @@ body {
   height: 3px;
   background: white;
   border-radius: 2px;
-}
+}*/
 
 /* Responsive Navbar */
 @media (max-width: 768px) {
@@ -403,7 +403,6 @@ background-clip: text;           /* Standard property */
   max-height: 300px;
   opacity: 1;
 }
-
 
 
 

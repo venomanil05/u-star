@@ -27,13 +27,13 @@ document.addEventListener('DOMContentLoaded', () => {
     nextSlide();
   }, 6000);
 
-  // Hamburger menu toggle
-  const hamburger = document.getElementById('hamburger');
-  const menu = document.getElementById('menu');
+   // Hamburger menu toggle
+  // const hamburger = document.getElementById('hamburger');
+  // const menu = document.getElementById('menu');
 
-  hamburger.addEventListener('click', () => {
-    menu.classList.toggle('active');
-  });
+  // hamburger.addEventListener('click', () => {
+  //   menu.classList.toggle('active');
+  // });
 
   // Dark mode toggle
   const darkModeToggle = document.getElementById('darkModeToggle');
